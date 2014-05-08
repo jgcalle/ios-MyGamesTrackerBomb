@@ -1,0 +1,75 @@
+/* 
+  Localizable.strings
+  MyGamesTracker
+
+  Created by MIMO on 03/03/14.
+  Copyright (c) 2014 MIMO. All rights reserved.
+*/
+
+// SearchGamesViewController
+"STRING_INFO" = "Info";
+"STRING_NO_FOUND_RESULTS" = "No encontré videojuegos";
+"STRING_CANCEL" = "Cancelar";
+"STRING_OK" = "Aceptar";
+"STRING_ANY_PLATFORMS" = "Cualquier plataforma";
+"STRING_SEARCH_LENGTH" = "Al menos son necesarios %d carácteres para realizar la búsqueda";
+"STRING_PLATFORMS" = "Plataformas";
+"STRING_PLATFORM" = "Plataforma";
+"STRING_SORT_BY" = "Ordernar por";
+"STRING_SORT_BY_TITLE" = "Título";
+"STRING_SORT_BY_RELEASE_DATE" = "Fecha de lanzamiento";
+"STRING_TEXTFIELD_GAME" = "Buscar por título (inglés)";
+"STRING_FOOTER" = "Información obtenida gracias a";
+"STRING_SEARCH_GAMES" = "Buscar videojuegos";
+"STRING_SEARCH" = "Buscar";
+
+//GamesBySearchCDTVC
+"STRING_NOT_FOUND_RESULTS" = "Sin videojuegos";
+"STRING_TITLE_TABLE" = "Mi Colección";
+"STRING_TITLE_TABLE_MUST" = "Mis Favoritos";
+"STRING_TITLE_SEARCH_TABLE" = "Videojuegos";
+
+// LoadCoreDataViewController
+"STRING_LOADING_PLATFORMS" = "Recuperando plataformas";
+"STRING_LOADED_PLATFORMS" = "%d Plataformas cargadas";
+"STRING_NOT_LOADED_PLATFORMS" = "Imposible recuperar plataformas";
+"STRING_BUTTON_RETRY" = "Reintentar";
+
+// GamesBySearchCDTVC
+"STRING_GAME" = "Videojuego";
+"STRING_GAMES" = "Videojuegos";
+"STRING_FOUND_GAMES" = "%d juegos";
+"STRING_FOUND_GAME" = "%d juego";
+
+// GameTableViewController
+"STRING_RELEASE_DATE" = "Fecha de lanzamiento ";
+"STRING_DEVELOPER" = "Desarrollador";
+"STRING_PUBLISHER" = "Distribuidor";
+"STRING_THEME" = "Temática";
+"STRING_GENRE" = "Género";
+"STRING_FRANCHISE" = "Franquicia";
+"STRING_NO_DATA" = "Info no disponible";
+"STRING_COVER" = "Portada";
+"STRING_IS_IN_MYTRACKERLIBRARY" = "Pertenece a mi Colección";
+"STRING_IS_NOT_IN_MYTRACKERLIBRARY" = "Añadir a mi Colección";
+"STRING_IS_IN_MYTRACKERMUSTHAVES" = "Pertenece a mis Favoritos";
+"STRING_IS_NOT_IN_MYTRACKERMUSTHAVES" = "Añadir a mis Favoritos";
+
+// ModelHelper
+"STRING_ERROR_NSURL_HOST" = "No se pudo encontrar el servidor.";
+"STRING_ERROR_NSURL_CONNECT" = "No se pudo conectar con el servidor. Quizás esté caido.";
+"STRING_ERROR_NSURL_INTERNET" = "No hay conexión a Internet";
+
+"STRING_ERROR_GIANTBOMB_API_INVALID" = "API Key no válida.";
+"STRING_ERROR_GIANTBOMB_API_NOT_FOUND" = "Datos del videojuego no encontrados.";
+"STRING_ERROR_GIANTBOMB_API_URL" = "Error en el formato de la URL.";
+"STRING_ERROR_GIANTBOMB_API_FILTER" = "Error en la definición del filtro.";
+"STRING_ERROR_GIANTBOMB_API_ERROR" = "Error recibiendo los datos de Giant Bomb. Inténtalo más tarde.";
+
+"STRING_HEADER_ERROR_ALERTVIEW" = "Vaya! Algo ha ido mal!";
+
+// AboutTableViewController
+"STRING_ABOUT" = "Acerca de";
+"STRING_EMAIL_RECIPIENT" = "jgcalle@yahoo.com";
+"STRING_EMAIL_SUBJECT" = "My Video Game Tracker Support";
+"STRING_EMAIL_TEXT" = "¿Has encontrado un error? ¿Necesitas ayuda? Contacta conmigo!";

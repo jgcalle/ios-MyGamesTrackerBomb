@@ -1,0 +1,78 @@
+
+/* Class = "IBUILabel"; text = "Information received through Giant Bomb API"; ObjectID = "0eU-Wg-v53"; */
+"0eU-Wg-v53.text" = "Information received through Giant Bomb API";
+
+/* Class = "IBUIButton"; normalTitle = "Retry"; ObjectID = "4lp-ua-vig"; */
+"4lp-ua-vig.normalTitle" = "Retry";
+
+/* Class = "IBUILabel"; text = "Powered by"; ObjectID = "5iz-Rn-RzD"; */
+"5iz-Rn-RzD.text" = "Powered by";
+
+/* Class = "IBUILabel"; text = "Searching Platforms"; ObjectID = "6et-Xk-R96"; */
+"6et-Xk-R96.text" = "Searching Platforms";
+
+/* Class = "IBUILabel"; text = "Genres"; ObjectID = "8vX-C4-rlU"; */
+"8vX-C4-rlU.text" = "Genres";
+
+/* Class = "IBUIButton"; normalTitle = "Platform"; ObjectID = "9bu-oT-dWU"; */
+"9bu-oT-dWU.normalTitle" = "Platform";
+
+/* Class = "IBUILabel"; text = "Theme"; ObjectID = "CLt-bl-dfE"; */
+"CLt-bl-dfE.text" = "Theme";
+
+/* Class = "IBUILabel"; text = "Platforms"; ObjectID = "Lgu-uN-H8T"; */
+"Lgu-uN-H8T.text" = "Platforms";
+
+/* Class = "IBUIBarButtonItem"; title = "Item"; ObjectID = "Rl1-XI-oac"; */
+"Rl1-XI-oac.title" = "Item";
+
+/* Class = "IBUILabel"; text = "Publisher"; ObjectID = "SBX-2K-0YD"; */
+"SBX-2K-0YD.text" = "Publisher";
+
+/* Class = "IBUILabel"; text = "Info"; ObjectID = "T93-cu-ZDK"; */
+"T93-cu-ZDK.text" = "Info";
+
+/* Class = "IBUITabBarItem"; title = "Item"; ObjectID = "Ufo-Gz-Zoy"; */
+"Ufo-Gz-Zoy.title" = "Item";
+
+/* Class = "IBUILabel"; text = "Released"; ObjectID = "WtA-6h-qzr"; */
+"WtA-6h-qzr.text" = "Released";
+
+/* Class = "IBUILabel"; text = "Themes"; ObjectID = "Xb1-F6-Tht"; */
+"Xb1-F6-Tht.text" = "Themes";
+
+/* Class = "IBUITextField"; placeholder = "Search Game"; ObjectID = "Xte-g2-c6g"; */
+"Xte-g2-c6g.placeholder" = "Search Game";
+
+/* Class = "IBUIButton"; normalTitle = "Search"; ObjectID = "YlC-yl-dav"; */
+"YlC-yl-dav.normalTitle" = "Search";
+
+/* Class = "IBUILabel"; text = "Franchises"; ObjectID = "dgP-7d-syG"; */
+"dgP-7d-syG.text" = "Franchises";
+
+/* Class = "IBUITextField"; placeholder = "Any Platform"; ObjectID = "evQ-Zm-fZN"; */
+"evQ-Zm-fZN.placeholder" = "Any Platform";
+
+/* Class = "IBUILabel"; text = "Genre"; ObjectID = "gsY-tn-ttG"; */
+"gsY-tn-ttG.text" = "Genre";
+
+/* Class = "IBUINavigationItem"; title = "Found Games"; ObjectID = "hci-O5-5Ox"; */
+"hci-O5-5Ox.title" = "Found Games";
+
+/* Class = "IBUILabel"; text = "Developers"; ObjectID = "iJO-2y-JQg"; */
+"iJO-2y-JQg.text" = "Developers";
+
+/* Class = "IBUILabel"; text = "Developer"; ObjectID = "kPR-ho-kp5"; */
+"kPR-ho-kp5.text" = "Developer";
+
+/* Class = "IBUINavigationItem"; title = "Search Games"; ObjectID = "o8Q-E7-vIU"; */
+"o8Q-E7-vIU.title" = "Search Games";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "qkt-wu-qZB"; */
+"qkt-wu-qZB.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Franchise"; ObjectID = "sSu-tq-fQq"; */
+"sSu-tq-fQq.text" = "Franchise";
+
+/* Class = "IBUILabel"; text = "Publishers"; ObjectID = "t5a-fW-K4k"; */
+"t5a-fW-K4k.text" = "Publishers";

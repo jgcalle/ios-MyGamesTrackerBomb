@@ -1,0 +1,76 @@
+/* 
+  Localizable.strings
+  MyGamesTracker
+
+  Created by MIMO on 03/03/14.
+  Copyright (c) 2014 MIMO. All rights reserved.
+*/
+
+// SearchGamesViewController
+"STRING_INFO" = "Info";
+"STRING_NO_FOUND_RESULTS" = "No games found";
+"STRING_CANCEL" = "Cancel";
+"STRING_OK" = "Ok";
+"STRING_ANY_PLATFORMS" = "Any platform";
+"STRING_SEARCH_LENGTH" = "%d characters are required for your search term at least";
+"STRING_PLATFORMS" = "Platforms";
+"STRING_PLATFORM" = "Platform";
+"STRING_SORT_BY" = "Sort by";
+"STRING_SORT_BY_TITLE" = "Title";
+"STRING_SORT_BY_RELEASE_DATE" = "Release date";
+"STRING_TEXTFIELD_GAME" = "Search by title";
+"STRING_FOOTER" = "Information received through";
+"STRING_SEARCH_GAMES" = "Search games";
+"STRING_SEARCH" = "Search";
+
+//GamesBySearchCDTVC
+"STRING_NOT_FOUND_RESULTS" = "No Games";
+"STRING_TITLE_TABLE" = "My Library";
+"STRING_TITLE_TABLE_MUST" = "My Must-Haves";
+"STRING_TITLE_SEARCH_TABLE" = "Games";
+
+// LoadCoreDataViewController
+"STRING_LOADING_PLATFORMS" = "Loading platforms";
+"STRING_LOADED_PLATFORMS" = "%d Platforms loaded";
+"STRING_NOT_LOADED_PLATFORMS" = "Platforms not loaded";
+"STRING_BUTTON_RETRY" = "Retry";
+
+// GamesBySearchCDTVC
+"STRING_GAME" = "Game";
+"STRING_GAMES" = "Games";
+"STRING_FOUND_GAMES" = "%d Games";
+"STRING_FOUND_GAME" = "%d Game";
+
+// GameTableViewController
+"STRING_RELEASE_DATE" = "First released on ";
+"STRING_DEVELOPER" = "Developer";
+"STRING_PUBLISHER" = "Publisher";
+"STRING_THEME" = "Theme";
+"STRING_GENRE" = "Genre";
+"STRING_FRANCHISE" = "Franchise";
+"STRING_NO_DATA" = "Info not available";
+"STRING_COVER" = "Cover";
+"STRING_IS_IN_MYTRACKERLIBRARY" = "Game in My Library";
+"STRING_IS_NOT_IN_MYTRACKERLIBRARY" = "Add Game to My Library";
+"STRING_IS_IN_MYTRACKERMUSTHAVES" = "Game in My Must-Haves";
+"STRING_IS_NOT_IN_MYTRACKERMUSTHAVES" = "Add Game to My Must-Haves";
+
+
+// ModelHelper
+"STRING_ERROR_NSURL_HOST" = "Cannot find specified host.";
+"STRING_ERROR_NSURL_CONNECT" = "Cannot connect to specified host. Server may be down.";
+"STRING_ERROR_NSURL_INTERNET" = "The Internet connection appears to be offline.";
+
+"STRING_ERROR_GIANTBOMB_API_INVALID" = "Invalid API Key.";
+"STRING_ERROR_GIANTBOMB_API_NOT_FOUND" = "Game Data not found.";
+"STRING_ERROR_GIANTBOMB_API_URL" = "Error in URL format.";
+"STRING_ERROR_GIANTBOMB_API_FILTER" = "Filter Error.";
+"STRING_ERROR_GIANTBOMB_API_ERROR" = "Error retrieving data from GiantBomb. Try it later.";
+
+"STRING_HEADER_ERROR_ALERTVIEW" = "Oops! Something went wrong!";
+
+// AboutTableViewController
+"STRING_ABOUT" = "About";
+"STRING_EMAIL_RECIPIENT" = "jgcalle@yahoo.com";
+"STRING_EMAIL_SUBJECT" = "My Video Game Tracker Support";
+"STRING_EMAIL_TEXT" = "Have you found any bug? Do you need support? Email me!";
